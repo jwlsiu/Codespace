@@ -14,3 +14,11 @@
 * Create a row of grid columns with the set width of 3 + 7 + 2
 
 ### 3. Grids: [grids.html](/grids.html) ###
+
+### 4. Typography ###
+
+### 5. Color ###
+
+### 5. Component - Navbar: [navbar.html](/navbar.html)###
+* Change background colour to dark. From **.bg-light** to **.bg-dark**
+* Change text colour to provide better contrast. From **.navbar-light** to **.navbar-dark**
