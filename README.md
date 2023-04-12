@@ -19,7 +19,13 @@
 
 ### 5. Color ###
 
-### 6. Component - Navbar: [navbar.html](/navbar.html) ###
+### 6. Components - Navbar: [navbar.html](/navbar.html) ###
 * Change background colour to dark. From **.bg-light** to **.bg-dark**
 * Change text colour to provide better contrast. From **.navbar-light** to **.navbar-dark**
 * Change button colour to provide better contrast. From **.btn-outline-success** to **.btn-outline-light**
+
+### 7. Components - Carousel: [carousel.html](/carousel.html) ###
+
+### 8. Components - Cards: [cards.html](/cards.html) ###
+
+### 9. Forms: [forms.html](/forms.html) ###
