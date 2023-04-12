@@ -22,3 +22,4 @@
 ### 6. Component - Navbar: [navbar.html](/navbar.html) ###
 * Change background colour to dark. From **.bg-light** to **.bg-dark**
 * Change text colour to provide better contrast. From **.navbar-light** to **.navbar-dark**
+* Change button colour to provide better contrast. From **.btn-outline-success** to **.btn-outline-light**
