@@ -1,5 +1,5 @@
 # Codespace - HTML
-1. HTML Structure: (./index.html)
+1. HTML Structure: [index.html](/index.html)
 * Create an HTML file using Starter Template from Bootstrap 4 
 
 2. Layout: grids.html
