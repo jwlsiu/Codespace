@@ -1,8 +1,8 @@
 # Codespace - HTML
-1. HTML Structure: [index.html](/index.html)
+## 1. HTML Structure: [index.html](/index.html) ##
 * Create an HTML file using Starter Template from Bootstrap 4 
 
-2. Layout: [grids.html](/grids.html)
+## 2. Layout: [grids.html](/grids.html) ##
 * Create a row with two grids of equal width
 * Create a row with three grids of equal width
 * Create a row with four grids of equal width
