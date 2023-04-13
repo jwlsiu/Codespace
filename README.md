@@ -25,8 +25,9 @@
 * Change button colour to provide better contrast. From **.btn-outline-success** to **.btn-outline-light**
 
 ### 7. Components - Carousel: [carousel.html](/carousel.html) ###
-* Create a carousel with 3 slides
+* Create a 3 slide carousel using slide images
 
 ### 8. Components - Cards: [cards.html](/cards.html) ###
+* Create a 3 cards with padding to the top and bottom of the page
 
 ### 9. Forms: [forms.html](/forms.html) ###
