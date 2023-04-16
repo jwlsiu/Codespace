@@ -31,4 +31,6 @@
 * Create a 3 card deck with padding to the top and bottom of the page
 
 ### 9. Forms: [forms.html](/forms.html) ###
-* 
+* Ensure each input has the correct input type
+* Add <div> element that will group <input> elements for name, email and phone number
+
