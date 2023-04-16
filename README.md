@@ -32,5 +32,9 @@
 
 ### 9. Forms: [forms.html](/forms.html) ###
 * Ensure each input has the correct input type
-* Add <div> element that will group <input> elements for name, email and phone number
+* Add div element that will group input elements for name, email and phone number. Add a class to this div element to help create a 6 column.
+* Repeat above steps to text area and button. Group these in a div element to create a 6 column
+* Wrap each input element with a class of 'form-group'
+* Add class attributes with the value of 'form-control' to input name, email, phone, comment
+* Add class to the button to change the appearance
 
